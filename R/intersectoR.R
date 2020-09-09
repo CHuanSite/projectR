@@ -59,7 +59,7 @@ intersectoR.kmeans <- function(
 #' @rdname intersectoR-methods
 #' @aliases intersectoR
 
-setMethod("intersectoR",signature(pSet1 = "kmeans",pSet2 = "kmeans"),intersectoR.kmeans)
+setMethod("intersectoR", signature(pSet1 = "kmeans",pSet2 = "kmeans"), intersectoR.kmeans)
 #######################################################################################################################################
 
 

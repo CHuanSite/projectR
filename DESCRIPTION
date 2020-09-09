@@ -23,7 +23,8 @@ Imports:
     ggplot2,
     CoGAPS,
     Matrix,
-    MatrixModels
+    MatrixModels,
+    pdist
 Suggests:
     BiocStyle,
     gridExtra,
